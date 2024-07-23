@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.repo-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f8f8ff;
+  border-radius: 8px;
+  width: 250px;
+}
+
+.main-heading {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 22px;
+  color: #e73959;
+}
+
+p {
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.image {
+  height: 80px;
+  width: 80px;
+}
+
+.stars-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.star {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}

@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.list-btn {
+  background-color: transparent;
+  color: #000;
+  font-family: Roboto;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.addColor {
+  border-color: #0284c7;
+  color: #0284c7;
+}
